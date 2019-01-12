@@ -15,7 +15,7 @@ output:
 
 ### Week 1 - Intro
    + _**Background**_
-      + [How to make a sex chromosome](https://raw.githubusercontent.com/cwheatlab/test_repo/pdf/How*chromosome.pdf)
+      + [How to make a sex chromosome](https://github.com/cwheatlab/test_repo/blob/master/pdfs/How%20to%20make%20a%20sex%20chromosome.pdf)
       + R Markdown Intro - [HTML](week_01/R_Markdown_Intro.html) - [PDF](week_01/R_Markdown_Intro.pdf)
    + _**Homework Demo**_ - [HTML](week_01/HW_demo.html) - [PDF](week_01/HW_demo.pdf)
    + _**Exercise**_
